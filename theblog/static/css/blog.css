@@ -45,3 +45,23 @@ body {
 .save {
   float:right;
 }
+
+.social_media {
+  background-color: #dafff4;
+  font-size: 25px;
+  padding: 20px 20px 20px 20px;
+  position:relative;
+  bottom:0;
+  width:100%;
+  font-family: cursive;
+  color: black;
+
+}
+
+.icon-buttons{
+  display : inline-block;
+  padding: 5px 5px 5px 5px;
+  float: left;
+  color: black;
+  margin: 0 15px 0 15px;
+}
