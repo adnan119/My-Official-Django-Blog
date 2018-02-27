@@ -14,13 +14,13 @@ body {
 }
 
 .post-title{
-  font-family: 'Devonshire',cursive;
+  font-family: 'Devonshire';
   font-size: 50px;
   margin-right: 30px;
 }
 
 .post-content{
-  font-family: 'Lateef',cursive;
+  font-family: 'Lateef';
   font-size: 35px
 }
 
