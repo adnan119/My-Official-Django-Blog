@@ -3,6 +3,7 @@ h1 a {
 }
 body {
     align: 'center';
+    background-color: white;
 }
 .title{
   font-family: 'Rock Salt',cursive;
